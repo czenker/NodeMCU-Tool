@@ -1,4 +1,12 @@
-[![Build Status](https://travis-ci.org/AndiDittrich/NodeMCU-Tool.svg?branch=master)](https://travis-ci.org/AndiDittrich/NodeMCU-Tool)
+Why does this fork exist?
+=========================
+
+NodeMCU-Tool does not work reliable when it is used as JS library. This
+fork tries to fix those issues.
+
+* [#83 JS library sometimes uploads files with 0 bytes](https://github.com/AndiDittrich/NodeMCU-Tool/issues/83)
+
+-----
 
 NodeMCU-Tool
 ============
